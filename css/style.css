@@ -463,7 +463,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .section-heading h2 {
   font-style: 40px;
   color: #fff;
-  font-family: "Satisfy", cursive;
+  font-family: "Cormorant Garamond", cursive;
 }
 
 #fh5co-about .img-wrap img {
@@ -485,7 +485,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-featured-menu .fh5co-heading h2, #fh5co-gallery .fh5co-heading h2, #fh5co-reservation-form .fh5co-heading h2 {
   color: #fff;
-  font-family: "Satisfy", cursive;
+  font-family: "Cormorant Garamond", cursive;
 }
 #fh5co-featured-menu .fh5co-item-wrap, #fh5co-gallery .fh5co-item-wrap, #fh5co-reservation-form .fh5co-item-wrap {
   padding-left: 20px;
@@ -563,7 +563,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-featured-testimony .fh5co-heading h2 {
   color: #fff;
-  font-family: "Satisfy", cursive;
+  font-family: "Cormorant Garamond", cursive;
 }
 #fh5co-featured-testimony .img-to-responsive img {
   margin-bottom: 20px;
@@ -607,7 +607,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-slider .fh5co-heading h2 {
-  font-family: "Satisfy", cursive;
+  font-family: "Cormorant Garamond", cursive;
   color: #fff;
 }
 
@@ -786,7 +786,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 0;
 }
 #fh5co-started .fh5co-heading h2 {
-  font-family: "Satisfy", cursive;
+  font-family: "Cormorant Garamond", cursive;
   color: #fff;
   margin-bottom: 20px !important;
 }
@@ -1040,7 +1040,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 #fh5co-blog .fh5co-heading h2, #fh5co-contact .fh5co-heading h2 {
-  font-family: "Satisfy", cursive;
+  font-family: "Cormorant Garamond", cursive;
   color: #fff;
 }
 
